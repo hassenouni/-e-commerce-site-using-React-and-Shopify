@@ -1,3 +1,10 @@
+ we will be creating a simple e-commerce site with Shopify as our headless commerce / backend. We will also be using React us as our frontend.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
